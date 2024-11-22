@@ -1,4 +1,4 @@
--Merhaba, ben Burak
--Kontrol ve Otomasyon Öğrencisiyim
--İlgi alanlarım == "Spor,Yeni Keşifler,Kamp,Kod Yazmak,Kitap Okumak"
--Özelliklerim == "Analitik Zeka,Hızlı Çözüme Ulaşma,Takım Çalışması,Hızlı Öğrenme,İkna Becerisi,Stresle Başa Çıkabilme, Yaratıcılık"
+-Hello, I am Burak
+-I am a Control and Automation Engineering Student
+-My interests == "Sports, Discovering New Things, Camping, Coding, Reading Books"
+-My skills == "Analytical Intelligence, Quick Problem-Solving, Teamwork, Fast Learning, Persuasion, Stress Management, Creativity"
