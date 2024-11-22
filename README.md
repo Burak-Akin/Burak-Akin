@@ -1,0 +1,4 @@
+-Merhaba, ben Burak
+-Kontrol ve Otomasyon Öğrencisiyim
+-İlgi alanlarım == "Spor,Yeni Keşifler,Kamp,Kod Yazmak,Kitap Okumak"
+-Özelliklerim == "Analitik Zeka,Hızlı Çözüme Ulaşma,Takım Çalışması,Hızlı Öğrenme,İkna Becerisi,Stresle Başa Çıkabilme, Yaratıcılık"
